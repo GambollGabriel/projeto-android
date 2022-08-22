@@ -107,8 +107,8 @@ main  p{
 article>h1{
     font-family: var(--font-android);
     color: var(--cor4);
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 1.8em;
+    font-weight: normal;
 }
 
 /*.teto{
@@ -138,9 +138,10 @@ h2 {
     color: var(--cor4);
     background-image: linear-gradient(to right,#2abb31,transparent);
     border-radius: 5px 0px 0px 5px ;
-    font-size: 25px;
+    font-size: 1.3em;
     padding: 1px;
     font-weight: normal;
+    text-indent: 8px;
 }
 
 div.video{
